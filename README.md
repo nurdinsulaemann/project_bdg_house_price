@@ -1,6 +1,6 @@
 📊 Bandung House Price Analysis
 
-<br><br>📌 Deskripsi
+📌 Deskripsi
 <br>Proyek ini bertujuan untuk menganalisis pola harga rumah di Bandung menggunakan data yang diperoleh melalui web scraping dari listing properti online. Dengan pendekatan berbasis data, proyek ini mengidentifikasi faktor utama yang memengaruhi harga rumah, seperti lokasi, luas tanah, dan ukuran bangunan.
 
 🔍 Metodologi
